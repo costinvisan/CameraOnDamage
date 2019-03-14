@@ -1,0 +1,11 @@
+{
+    "id" : "CameraOnDamage",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "costinvisan",
+    "displayName" : "CameraOnDamage",
+    "description" : "System for Camera when on damage",
+    "dependencies" : [
+        {"id": "Core", "minVersion": "2.0.0"}
+    ],
+    "serverSideOnly" : false
+}
